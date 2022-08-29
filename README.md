@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gavbong!
-- 👀 I’m interested in blockchain & smart contracts.
+- 👀 I’m interested in blockchain & smart contracts development.
 - 🌱 I’m currently learning how to write code with no CS background.
 - 💞️ If you have any good resource on blockchain & smart contract development or anything CS related, please HMU! 
 - 📫 How to reach me via Twitter @gavbong_
